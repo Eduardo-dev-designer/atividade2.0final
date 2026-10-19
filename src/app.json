@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "Laticínios Bom Leite",
+    "slug": "laticinios-bom-leite",
+    "scheme": "bomleite",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "plugins": ["expo-router"],
+    "experiments": { "typedRoutes": true }
+  }
+}
